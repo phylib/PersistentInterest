@@ -16,4 +16,8 @@ When cloning this repository, please make sure to init the submodules. In order 
     git checkout testbed-branch
     cd ../ndn-cxx/
     git checkout testbed_branch
+    cd ../execution-scripts
+    git checkout master
+    cd ../applications
+    git checkout master
     cd ../..
