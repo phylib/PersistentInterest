@@ -1,0 +1,8 @@
+[submodule "PerformanceEvaluation/NFD"]
+	path = PerformanceEvaluation/NFD
+	url = git@bitbucket.org:phylib/nfd-push-2_3.git
+	branch = testbed-branch
+[submodule "PerformanceEvaluation/ndn-cxx"]
+	path = PerformanceEvaluation/ndn-cxx
+	url = https://phylib@bitbucket.org/phylib/ndn-cxx_2_3.git
+	branch = testbed_branch
