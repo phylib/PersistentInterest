@@ -6,3 +6,6 @@
 	path = PerformanceEvaluation/ndn-cxx
 	url = https://phylib@bitbucket.org/phylib/ndn-cxx_2_3.git
 	branch = testbed_branch
+[submodule "PerformanceEvaluation/applications"]
+	path = PerformanceEvaluation/applications
+	url = https://stheuer@bitbucket.org/stheuer/ndnpushpullapps.git
