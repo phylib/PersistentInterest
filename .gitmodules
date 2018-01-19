@@ -9,3 +9,6 @@
 [submodule "PerformanceEvaluation/applications"]
 	path = PerformanceEvaluation/applications
 	url = https://stheuer@bitbucket.org/stheuer/ndnpushpullapps.git
+[submodule "PerformanceEvaluation/execution-scripts"]
+	path = PerformanceEvaluation/execution-scripts
+	url = https://stheuer@bitbucket.org/stheuer/pushpullexecutionscripts.git
