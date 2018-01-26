@@ -12,3 +12,6 @@
 [submodule "PerformanceEvaluation/execution-scripts"]
 	path = PerformanceEvaluation/execution-scripts
 	url = https://stheuer@bitbucket.org/stheuer/pushpullexecutionscripts.git
+[submodule "BitvectorEvaluation/ndnSIMScenario"]
+	path = BitvectorEvaluation/ndnSIMScenario
+	url = https://github.com/phylib/BitvectorEvaluation.git
